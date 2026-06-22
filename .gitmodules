@@ -1,0 +1,28 @@
+[submodule "plugins/andrej-karpathy-skills"]
+	path = plugins/andrej-karpathy-skills
+	url = https://github.com/multica-ai/andrej-karpathy-skills
+	shallow = true
+[submodule "plugins/superpowers"]
+	path = plugins/superpowers
+	url = https://github.com/obra/superpowers
+	shallow = true
+[submodule "plugins/claude-mem"]
+	path = plugins/claude-mem
+	url = https://github.com/thedotmack/claude-mem
+	shallow = true
+[submodule "plugins/context-mode"]
+	path = plugins/context-mode
+	url = https://github.com/mksglu/context-mode
+	shallow = true
+[submodule "plugins/gsd-core"]
+	path = plugins/gsd-core
+	url = https://github.com/open-gsd/gsd-core
+	shallow = true
+[submodule "plugins/ponytail"]
+	path = plugins/ponytail
+	url = https://github.com/DietrichGebert/ponytail
+	shallow = true
+[submodule "plugins/improve"]
+	path = plugins/improve
+	url = https://github.com/shadcn/improve
+	shallow = true

@@ -1,0 +1,121 @@
+{
+  "outputDir": "../plugins",
+  "tempDir": "../.tmp-sync",
+  "version": "1.0.0",
+  "sources": [
+    {
+      "author": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "skills": [
+        {
+          "directory": "skills",
+          "names": [
+            "algorithmic-art",
+            "brand-guidelines",
+            "canvas-design",
+            "claude-api",
+            "doc-coauthoring",
+            "docx",
+            "frontend-design",
+            "internal-comms",
+            "mcp-builder",
+            "pdf",
+            "pptx",
+            "skill-creator",
+            "slack-gif-creator",
+            "theme-factory",
+            "web-artifacts-builder",
+            "webapp-testing",
+            "xlsx"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "vercel-labs",
+      "repo": "skills",
+      "branch": "main",
+      "skills": [
+        {
+          "directory": "skills",
+          "names": [
+            "find-skills"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "vercel-labs",
+      "repo": "agent-skills",
+      "branch": "main",
+      "skills": [
+        {
+          "directory": "skills",
+          "names": [
+            "web-design-guidelines"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Agents365-ai",
+      "repo": "drawio-skill",
+      "branch": "main",
+      "skills": [
+        {
+          "directory": "skills",
+          "names": [
+            "drawio-skill"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "mvanhorn",
+      "repo": "last30days-skill",
+      "branch": "main",
+      "skills": [
+        {
+          "directory": "skills",
+          "names": [
+            "last30days"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "hardikpandya",
+      "repo": "stop-slop",
+      "branch": "main",
+      "skills": [
+        {
+          "names": [
+            "stop-slop"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "branch": "main",
+      "plugins": [
+        {
+          "names": ["andrej-karpathy-skills"]
+        }
+      ]
+    },
+    {
+      "author": "Egonex-AI",
+      "repo": "Understand-Anything",
+      "branch": "main",
+      "plugins": [
+        {
+          "directory": "understand-anything-plugin",
+          "names": ["understand-anything"]
+        }
+      ]
+    }
+  ]
+}
