@@ -51,7 +51,7 @@ This repo provides three things:
 Clone this repo for smallest download size (just the latest commit, no history, and shallow submodules):
 
 ```bash
-git clone --depth 1 --filter=blob:none --recurse-submodules --shallow-submodules https://github.com/sekedus/skills-to-pugins-for-3p
+git clone --depth 1 --filter=blob:none --recurse-submodules --shallow-submodules https://github.com/sekedus/plugins-for-claude-3p
 ```
 
 | Flag | Purpose |
@@ -217,7 +217,7 @@ git config -f .gitmodules submodule."plugins/<plugin-name>".shallow true
 #### Updating all submodules to latest
 
 ```bash
-git submodule update --remote --depth 1 --filter=blob:none
+git submodule update --init --filter=blob:none --remote --depth 1
 ```
 
 | Flag | Purpose |

@@ -1,6 +1,6 @@
-[submodule "plugins/andrej-karpathy-skills"]
-	path = plugins/andrej-karpathy-skills
-	url = https://github.com/multica-ai/andrej-karpathy-skills
+[submodule "plugins/mattpocock-skills"]
+	path = plugins/mattpocock-skills
+	url = https://github.com/mattpocock/skills
 	shallow = true
 [submodule "plugins/superpowers"]
 	path = plugins/superpowers
@@ -25,4 +25,8 @@
 [submodule "plugins/improve"]
 	path = plugins/improve
 	url = https://github.com/shadcn/improve
+	shallow = true
+[submodule "plugins/addyosmani-agent-skills"]
+	path = plugins/addyosmani-agent-skills
+	url = https://github.com/addyosmani/agent-skills
 	shallow = true

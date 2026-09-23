@@ -1,0 +1,14 @@
+{
+  "name": "claude-desktop-3p",
+  "owner": {
+    "name": "sekedus"
+  },
+  "plugins": [
+    {
+      "name": "product-self-knowledge",
+      "displayName": "Anthropic Product Knowledge",
+      "source": "./plugins/product-self-knowledge",
+      "description": "Pre-built skills for Claude to understand and answer questions about Anthropic products, including Claude.ai, Claude Code, Claude Cowork, and Claude Desktop. Includes skills for reading product documentation, searching internal knowledge bases, and answering product-related questions."
+    }
+  ]
+}

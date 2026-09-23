@@ -15,6 +15,7 @@
             "brand-guidelines",
             "canvas-design",
             "claude-api",
+            "discernment-nudge",
             "doc-coauthoring",
             "docx",
             "frontend-design",
@@ -93,16 +94,6 @@
           "names": [
             "stop-slop"
           ]
-        }
-      ]
-    },
-    {
-      "author": "multica-ai",
-      "repo": "andrej-karpathy-skills",
-      "branch": "main",
-      "plugins": [
-        {
-          "names": ["andrej-karpathy-skills"]
         }
       ]
     },
